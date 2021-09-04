@@ -15,3 +15,5 @@ class(dataset)
 
 # Cantidad de columnas
 ncol(dataset)
+
+nrow(dataset)
